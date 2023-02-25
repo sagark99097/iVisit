@@ -1,0 +1,21 @@
+const strings = {
+    EMAIL: 'Email',
+    PASSWORD: 'Password',
+    GO: 'Go',
+    EMAIL_EMPTY: 'Email address cannot be empty',
+    EMAIL_NOT_VALID: 'Email address is not valid',
+    PASSWORD_EMPTY: 'Password cannot be empty',
+    NEW_PASSWORD_EMPTY: 'New password cannot be empty',
+    ERROR: 'Something went wrong',
+    ADDED_TO_FAVORITE: 'Added to favorite',
+    REMOVED_FROM_FAVORITE: 'Removed from favorite',
+    NO_FAVORITE_LIST: 'You have no favorite list',
+    LOGOUT: 'Logout',
+    VERSION: 'Version (1.0)',
+    GENDER: 'Gender: ',
+    DATE_OF_BIRTH: 'Date of Birth: ',
+    REGISTER_DATE: 'Register Date: ',
+    PHONE: 'Phone: ',
+    ADDRESS: 'Address',
+}
+export default strings;

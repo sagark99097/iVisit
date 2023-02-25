@@ -1,0 +1,6 @@
+module Pods_iVisit {
+  umbrella header "Pods-iVisit-umbrella.h"
+
+  export *
+  module * { export * }
+}

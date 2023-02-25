@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iVisit.iml" filepath="$PROJECT_DIR$/.idea/modules/iVisit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/iVisit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/iVisit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1822572372/iVisit.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1822572372/iVisit.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/321381480/iVisit.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/321381480/iVisit.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-955087505/iVisit.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-955087505/iVisit.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1474105276/iVisit.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1474105276/iVisit.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1360908467/iVisit.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1360908467/iVisit.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1935277592/iVisit.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1935277592/iVisit.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1237345232/iVisit.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1237345232/iVisit.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/529277127/iVisit.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/529277127/iVisit.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-18302410/iVisit.realm.iml" filepath="$PROJECT_DIR$/.idea/modules/-18302410/iVisit.realm.iml" />
+    </modules>
+  </component>
+</project>
